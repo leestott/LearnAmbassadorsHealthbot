@@ -46,7 +46,7 @@ When selecting this option, you will need to enter a scenario name.
 
 ![Bot Import a claim](images/botimportaclaim.png)
 
-Select the new claim template from the catalog. 
+## Select the new claim template from the catalog. 
 
 After importing the scenario, you will be redirected to the Scenario Editor. The Scenario Editor is a very strong feature of the Health Bot, It has a number of visual capabilities to create, test and run chatbot scenario’s in the browser.
 
