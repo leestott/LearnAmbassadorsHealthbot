@@ -30,6 +30,7 @@ To start using the Health Bot Service, you will need to click on Configure Accou
 The initial screen invites you to create new scenario’s. The Health Bot has great functionality to create, debug, test and manage scenarios.
 
 ![Microsoft HealthBot](/images/healthbotwelcome.png)
+
 Start screen Health Bot Dashboard
 
 Let’s try creating a new scenario, by clicking on Open scenario template catalog 
@@ -37,6 +38,7 @@ Let’s try creating a new scenario, by clicking on Open scenario template catal
 The Health Bot Service has different templates available that can kickstart your bot project. The templates contains pre defined scenario’s, where you can start from.
 
 ![Bot Template Catalog](/images/bottemplatecatalog.png)
+
 Healthbot Template Catalog
 
 For this demo, let’s create the File a claim template.
@@ -84,7 +86,7 @@ When combining these building blocks, any functional user can create their own d
 
 ![bot built in language support](images/botbuildinlanguage.png)
 
-Built in Language Models
+## Built in Language Models
 
 The Health Bot Service has several built in language models, to support out of the box scenario’s, such as medical complaints, privacy issues.
 
