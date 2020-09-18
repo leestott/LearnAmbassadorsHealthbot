@@ -20,6 +20,7 @@ Just fill in the required properties, such as Name, Subscription, Resource group
 When the services has been created, you should see a similar screen
 
 ![service details](/images/belongingbot.png)
+
 The Health Bot Service details screen after creation. 
 
 To start using the Health Bot Service, you will need to click on Configure Account , this will redirect you to the Admin portal, where you can start configuring your bot.
