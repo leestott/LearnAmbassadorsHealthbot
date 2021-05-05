@@ -55,7 +55,7 @@ After importing the scenario, you will be redirected to the Scenario Editor. The
 
 Here is a high-level overview of the Scenario Editor.
 
-We have amazing docs at Microsoft Doc, more information on the Healthbot can be found [here](https://docs.microsoft.com/HealthBot/scenario-authoring/scenario-elements)
+We have amazing docs at Microsoft Doc, more information on the Healthbot can be found [here](https://docs.microsoft.com/HealthBot/scenario-authoring/scenario-elements?WT.mc_id=academic-0000-leestott)
 
 1.	The upper bar contains functionality to Save your scenario, but also to Run the scenario in the browser, this can be done with arguments and a snapshot of the scenario can also be created
 2.	The Author has a broad range of scenario elements that can be used to create your scenario.
@@ -202,4 +202,4 @@ I hope that you now have a better understanding on how the Health Bot Service co
 
 ## Documentation & Additional Resources
 
-https://docs.microsoft.com/HealthBot
+https://docs.microsoft.com/HealthBot?WT.mc_id=academic-0000-leestott
